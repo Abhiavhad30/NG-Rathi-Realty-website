@@ -1,0 +1,28 @@
+.footer-link {
+  color: #333;
+  text-decoration: none;
+  display: block;
+  margin: 0.3rem 0;
+}
+
+.footer-link:hover {
+  color: #ff9800;
+}
+
+.social-icons a {
+  color: #333;
+  background: rgba(0,0,0,0.05);
+  padding: 0.5rem;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  background: #ff9800;
+  color: #fff;
+}
+
+.brand {
+  font-weight: bold;
+  color: #ff9800;
+}

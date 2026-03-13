@@ -1,0 +1,26 @@
+.navbar {
+  font-size: 1rem;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  color: #333 !important;
+  margin-right: 1rem;
+  transition: color 0.3s;
+}
+
+.nav-link:hover {
+  color: #ff9800 !important;
+}
+
+.btn-success {
+  background-color: #ff9800;
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #e68900;
+}
